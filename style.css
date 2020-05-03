@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+    font-family: 'Montserrat', sans-serif !important;
+    background-color: #d2dff8 !important;
+    padding: 0px;
+    margin: 0;
+}
+
+img{
+   width: 5rem;
+   height: 5rem;
+   border-radius:10px;
+}
+
+.pop{
+    font-size: .8rem;
+    opacity: 0.8;
+}
+.email{
+    opacity: 0.8;
+}
+.count{
+    opacity: 0.8;
+}
+.add{
+    font-size: .8rem;
+}
+.row .blog{
+    width: 3rem;
+   height: 3rem;
+   border-radius: 50%;
+}
